@@ -1,5 +1,7 @@
 # gambling_game
 
+[Demo](https://voltronshop.ru/gambling/index.html#/)
+
 ## Project setup
 ```
 npm install
